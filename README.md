@@ -1,3 +1,6 @@
+Live demo
+ https://lnkd.in/dFSUX9Kr
+
 # 🎯 Number Guessing Game — Python CLI
 
 A simple yet fun **Number Guessing Game** built using pure Python.  
