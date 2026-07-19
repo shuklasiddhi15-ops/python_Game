@@ -1,5 +1,5 @@
-Live demo
- https://lnkd.in/dFSUX9Kr
+Live demo : https://pythongame-6a4ecgxhgn5uaznj3yabev.streamlit.app/
+ 
 
 # 🎯 Number Guessing Game — Python CLI
 
